@@ -1,2 +1,2 @@
 # hangman
-repo for althoff hangman
+hangman game in python
